@@ -1,0 +1,11 @@
+mai. 05, 2023 5:52:16 PM Logging.Principal main
+INFO: 
+
+
+Calculadora iniciada!
+mai. 05, 2023 5:52:23 PM Logging.Principal main
+INFO: 
+Operação - foi selecionado!
+mai. 05, 2023 5:52:31 PM Logging.Principal main
+INFO: 
+O resultado da operação é: 5.0 e a calculadora foi encerrada!
